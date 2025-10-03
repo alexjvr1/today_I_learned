@@ -1,3 +1,5 @@
 # today_I_learned
 
-Documenting new analyses or skills I'm trying out. Primarily Bioinformatics and Visualisation. 
+Documenting new analyses or approaches I'm trying out. 
+
+Bioinformatics and Visualisation 
